@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sangwoo Kim</h1>
-<h3 align="left">I will strive to create an awesome program.</h3>
+<h3 align="left">I will strive to create an amazing program.</h3>
 
 - 🌱 I’m currently learning **Spring, mysql**
 
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/tkddn8828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tkddn8828" height="30" width="40" /></a>
 <a href="https://instagram.com/__sxngwxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sxngwxx" height="30" width="40" /></a>
 </p>
 
