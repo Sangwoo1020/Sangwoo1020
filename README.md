@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Sangwoo Kim</h1>
-<h3 align="left">I will strive to create an amazing program.</h3>
+<h1 align="left">Hi 👋, I'm Sangwoo Kim, a developer who wants to make a awesome programs</h1>
+<h3 align="left">I will strive to create an creative program.</h3>
 
 - 🌱 I’m currently learning **Spring, mysql**
 
