@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **tkddn8828@naver.com**
 
-- ⚡ Fun fact **My MBTI is ENFP**
+- ⚡ **My MBTI is ENFP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
