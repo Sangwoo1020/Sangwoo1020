@@ -1,4 +1,4 @@
-[<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WELCOME%20TO-nl-SANGWOO'S%20GITHUB&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WELCOME%20TO-nl-SANGWOO'S%20GITHUB&fontSize=50&fontColor=ffffff" />
 
 <h2 align="center">👋 안녕하세요, 백엔드 개발자 김상우입니다</h2>
 
@@ -52,8 +52,8 @@
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/Sangwoo1020/guardpaySpring">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=guardpaySpring&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/infiniment/MoodTripPub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=infiniment&repo=MoodTripPub&theme=tokyonight&hide_border=true" />
         </a>
       </td>
     </tr>
@@ -119,4 +119,4 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
-</div>](https://blog.naver.com/tkddn8828)
+</div>
