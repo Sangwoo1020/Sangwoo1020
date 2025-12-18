@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WELCOME%20TO-nl-SANGWOO'S%20GITHUB&fontSize=50&fontColor=ffffff" />
+[<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WELCOME%20TO-nl-SANGWOO'S%20GITHUB&fontSize=50&fontColor=ffffff" />
 
 <h2 align="center">👋 안녕하세요, 백엔드 개발자 김상우입니다</h2>
 
@@ -8,18 +8,6 @@
   🎬 패션 콘텐츠 크리에이터 <a href="https://www.youtube.com/@스친남">@스친남</a><br>
   🔧 <b>Backend:</b> Java/Spring Boot<br>
 </p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangwoo1020&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
-</p>
-
-<br>
-
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Sangwoo1020&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/Sangwoo1020" width="600" height="300"/>
-  </a>
-</div>
 
 <br>
 
@@ -47,41 +35,37 @@
   <table>
     <tr>
       <td width="50%">
+        <a href="https://github.com/infiniment/MoodTrip">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=infiniment&repo=MoodTrip&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Sangwoo1020/CodiMate-publishing">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=CodiMate-publishing&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Sangwoo1020/CodiMate-backend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=CodiMate-backend&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+      <td width="50%">
         <a href="https://github.com/Sangwoo1020/guardpaySpring">
-          <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020](https://github.com/Sangwoo1020/CodiMate-backend)&repo=guardpaySpring&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Sangwoo1020/youtube-highlight-curation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=youtube-highlight-curation&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Sangwoo1020/DrawLier">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=DrawLier&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Sangwoo1020/minmin02">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=minmin02&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/UMC-9th-Spring-Boot/minkyu">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=UMC-9th-Spring-Boot&repo=minkyu&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Sangwoo1020/Codimate">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=Codimate&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=guardpaySpring&theme=tokyonight&hide_border=true" />
         </a>
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Sangwoo1020&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/Sangwoo1020" width="600" height="300"/>
+  </a>
 </div>
 
 <br>
@@ -119,10 +103,20 @@
   <a href="https://instagram.com/__sxngwxx">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="YOUR_BLOG_URL">
+  <a href="https://blog.naver.com/tkddn8828">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@스친남">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
+
+<br>
+
+<div align="center">
+  
+### 💬 "Fashion meets Technology" 💻
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+</div>](https://blog.naver.com/tkddn8828)
