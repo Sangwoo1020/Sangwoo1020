@@ -3,10 +3,10 @@
 <h2 align="center">👋 안녕하세요, 백엔드 개발자 상우입니다</h2>
 
 <p align="center">
-  🎓 한성대학교 컴퓨터공학과 3학년<br>
-  💼 SPAO 2년차 근무 | 패션 리테일 경험<br>
+  🎓 컴퓨터공학과 3학년<br>
+  💼 SPAO 2년차 근무 <br>
   🎬 패션 콘텐츠 크리에이터 <a href="https://www.youtube.com/@스친남">@스친남</a><br>
-  🔧 <b>Backend:</b> Java/Spring Boot | <b>DB:</b> MySQL<br>
+  🔧 <b>Backend:</b> Java/Spring Boot<br>
   🎯 패션 테크 분야 백엔드 개발자를 목표로 성장 중
 </p>
 
@@ -17,41 +17,6 @@
     <img src="https://render.gitanimals.org/farms/Sangwoo1020" width="600" height="300"/>
   </a>
 </div>
-
-<hr>
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Codimate</h3>
-      <p align="center">
-        <img src="https://via.placeholder.com/400x200?text=Codimate" width="100%" alt="Codimate"/>
-      </p>
-      <p align="center">
-        옷장 관리 & 코디 추천 웹 애플리케이션
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">ReACT</h3>
-      <p align="center">
-        <img src="https://via.placeholder.com/400x200?text=ReACT" width="100%" alt="ReACT"/>
-      </p>
-      <p align="center">
-        YouTube 하이라이트 큐레이션 서비스
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <hr>
 
@@ -77,13 +42,6 @@
 
 ## 🏆 Certifications
 - 📊 ADsP (데이터분석 준전문가)
-
-<hr>
-
-## 💡 What I'm Currently Learning
-- 데이터베이스 설계 및 ERD 최적화
-- Spring Boot 심화 학습
-- MSA 아키텍처 패턴
 
 <hr>
 
