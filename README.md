@@ -1,4 +1,6 @@
-<h1 align="left">Hi, I'm Sangwoo👨‍💻</h1>
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Sangwoo1020&utm_content=farm">
 <img
