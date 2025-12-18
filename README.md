@@ -3,9 +3,9 @@
 <h2 align="center">👋 안녕하세요, 백엔드 개발자 김상우입니다</h2>
 
 <p align="center">
-  🎓 컴퓨터공학과 3학년<br>
+  🎓 컴퓨터공학과 재학<br>
   💼 SPAO 2년차 근무<br>
-  🎬 패션 콘텐츠 크리에이터 <a href="https://www.youtube.com/@스친남">@스친남</a><br>
+  🎬 패션 콘텐츠 크리에이터 <a href="https://www.instagram.com/seucinnam/?hl=ko">@스친남</a><br>
   🔧 <b>Backend:</b> Java/Spring Boot<br>
 </p>
 
@@ -91,8 +91,6 @@
 
 <div align="center">
   
-![](https://raw.githubusercontent.com/sangwoo1020/sangwoo1020/output/github-contribution-grid-snake-dark.svg)
-  
 </div>
 
 <br>
@@ -115,7 +113,7 @@
 
 <div align="center">
   
-### 💬 "Fashion meets Technology" 💻
+###  "Fashion meets Technology" 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
