@@ -5,7 +5,6 @@
   🎓 컴퓨터공학과 재학<br>
   💼 SPAO 2년차 근무<br>
   🎬 패션 콘텐츠 크리에이터 <a href="https://www.instagram.com/seucinnam/?hl=ko">@스친남</a><br>
-  🔧 <b>Backend:</b> Java/Spring Boot<br>
 </p>
 
 <br>
