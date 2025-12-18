@@ -1,13 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WELCOME%20TO-nl-SANGWOO'S%20GITHUB&fontSize=50&fontColor=ffffff" />
 
-<h2 align="center">👋 안녕하세요, 백엔드 개발자 상우입니다</h2>
+<h2 align="center">👋 안녕하세요, 백엔드 개발자 김상우입니다</h2>
 
 <p align="center">
   🎓 컴퓨터공학과 3학년<br>
   💼 SPAO 2년차 근무<br>
   🎬 패션 콘텐츠 크리에이터 <a href="https://www.youtube.com/@스친남">@스친남</a><br>
   🔧 <b>Backend:</b> Java/Spring Boot<br>
-  🎯 패션 테크 분야 백엔드 개발자를 목표로 성장 중
 </p>
 
 <p align="center">
@@ -49,7 +48,7 @@
     <tr>
       <td width="50%">
         <a href="https://github.com/Sangwoo1020/guardpaySpring">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=guardpaySpring&theme=tokyonight&hide_border=true" />
+          <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020](https://github.com/Sangwoo1020/CodiMate-backend)&repo=guardpaySpring&theme=tokyonight&hide_border=true" />
         </a>
       </td>
       <td width="50%">
@@ -127,13 +126,3 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  
-### 💬 "Fashion meets Technology" 💻
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
-</div>
