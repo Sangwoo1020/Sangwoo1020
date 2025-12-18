@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME%TO%SANGWOO'S%GITHUB&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=WELCOME%20TO%20SANGWOO'S%20GITHUB&fontSize=45&animation=fadeIn" />
 
+<hr>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Sangwoo1020&utm_content=farm">
 <img
