@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sangwoo Kim👨‍💻</h1>
+<h1 align="left">Hi, I'm Sangwoo👨‍💻</h1>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Sangwoo1020&utm_content=farm">
 <img
