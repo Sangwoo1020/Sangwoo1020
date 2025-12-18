@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=WELCOME%20TO-nl-SANGWOO'S%20GITHUB&fontSize=50&fontColor=ffffff" />
 
-<h2 align="center">👋 안녕하세요, 백엔드 개발자 김상우입니다</h2>
-
 <p align="center">
+  <h2 align="center">👋 안녕하세요, 백엔드 개발자 김상우입니다</h2>
   🎓 컴퓨터공학과 재학<br>
   💼 SPAO 2년차 근무<br>
   🎬 패션 콘텐츠 크리에이터 <a href="https://www.instagram.com/seucinnam/?hl=ko">@스친남</a><br>
