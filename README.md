@@ -28,48 +28,13 @@
 
 <br>
 
-## 📌 Pinned Repositories
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/infiniment/MoodTrip">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=infiniment&repo=MoodTrip&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Sangwoo1020/CodiMate-publishing">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=CodiMate-publishing&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Sangwoo1020/CodiMate-backend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangwoo1020&repo=CodiMate-backend&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/infiniment/MoodTripPub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=infiniment&repo=MoodTripPub&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Sangwoo1020&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/Sangwoo1020" width="600" height="300"/>
   </a>
 </div>
-
-<br>
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sangwoo1020&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
